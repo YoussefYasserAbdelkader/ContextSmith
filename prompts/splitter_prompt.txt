@@ -1,0 +1,11 @@
+Separate the given user message into:
+1. Background Context
+2. Actual Question
+
+Message: {input}
+
+Output in JSON:
+{
+  "context": "...",
+  "question": "..."
+}

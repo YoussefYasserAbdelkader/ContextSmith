@@ -1,0 +1,7 @@
+Given the provided context and the user question, decide if the context is relevant.
+Output ONLY one of the following:
+- relevant
+- not_relevant
+
+Context: {context}
+Question: {question}
